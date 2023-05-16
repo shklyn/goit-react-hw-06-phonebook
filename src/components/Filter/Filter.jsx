@@ -9,7 +9,7 @@ export const Filter = () => {
 
   return (
     <SearchLabel>
-      Find contscts by name
+      Find contacts by name
       <SearchInput
         type="text"
         onChange={e => {
